@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+
+env/
+venv/
+.cache/
+
+.coverage/
+.pytest_cache/
+.mypy_cache/
+__pycache__/
+
+tmp/
+.env
+*.db
+
+private_config.txt
